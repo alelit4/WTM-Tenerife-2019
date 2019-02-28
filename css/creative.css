@@ -210,7 +210,10 @@ header.masthead p {
     padding-bottom: 0;
   }
   header.masthead h1 {
-    font-size: 3rem;
+    font-size: 2.5rem;
+  }
+  header.masthead p {
+    font-size: 1.15rem;
   }
 }
 
@@ -218,7 +221,16 @@ header.masthead p {
   header.masthead h1 {
     font-size: 4rem;
   }
+  header.masthead p {
+    font-size: 1.15rem;
+  }
 }
+
+/* ************** */
+#title2019, #imgLogo{
+  margin-top: 3%;
+}
+/* ************** */
 
 .service-box {
   max-width: 400px;
